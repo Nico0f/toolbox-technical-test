@@ -1,0 +1,16 @@
+:root {
+  --bs-primary: #ff6666;
+}
+
+.btn-primary {
+    background-color: #ff6666 !important;
+}
+
+.bg-header {
+  background-color: #ff6666 !important;
+  color: #ffffff;
+}
+
+.bg-header .navbar-brand {
+  color: #ffffff !important;
+}

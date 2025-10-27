@@ -1,0 +1,25 @@
+{
+  "name": "toolbox-technical-test-backend",
+  "version": "1.0.0",
+  "description": "Toolbox technical test backend",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha tests/**/*.test.js --timeout 10000 --exit",
+    "lint": "standard",
+    "lint:fix": "standard --fix"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "chai": "^4.5.0",
+    "esm": "^3.2.25",
+    "mocha": "^9.2.2",
+    "standard": "^17.1.2"
+  }
+}
