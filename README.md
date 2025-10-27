@@ -117,7 +117,3 @@ frontend/
 
 - Node.js (versión recomendada: última LTS)
 - npm (incluido con Node.js)
-
-## Licencia
-
-ISC
