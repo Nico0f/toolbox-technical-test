@@ -115,5 +115,5 @@ frontend/
 
 ## Requisitos del Sistema
 
-- Node.js (versión recomendada: última LTS)
+- Node.js (versión 14 - Backend | versión 16 Frontend)
 - npm (incluido con Node.js)
